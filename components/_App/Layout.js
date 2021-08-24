@@ -29,7 +29,7 @@ const Layout = ({ children }) => {
 					name="twitter:card"
 					content="International Oilfield Supplies | Piping the World"
 				/>
-				<link rel="canonical" href="https://ios-oman.vercel.app/"></link>
+				<link rel="canonical" href="https://www.iosgroupoman.com/"></link>
 
 				<meta name="mobile-web-app-capable" content="yes" />
 
@@ -59,19 +59,19 @@ const Layout = ({ children }) => {
 				<meta
 					name="og:image"
 					property="og:image"
-					content="https://ios-oman.vercel.app/ios-og-img.png"
+					content="https://www.iosgroupoman.com/ios-og-img.png"
 					itemProp="image"
 				/>
 				<meta name="og:type" content="website" />
 				<meta
 					name="og:url"
 					property="og:url"
-					content="https://ios-oman.vercel.app/"
+					content="https://www.iosgroupoman.com/"
 				/>
 				<meta
 					property="og:image:secure_url"
 					name="og:image:secure_url"
-					content="https://ios-oman.vercel.app/"
+					content="https://www.iosgroupoman.com/"
 				/>
 				<meta
 					property="og:image:type"
