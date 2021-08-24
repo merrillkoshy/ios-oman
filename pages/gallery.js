@@ -65,7 +65,7 @@ const Gallery = () => {
 	const childElements = () => {
 		const material = "/images/gallery/ios-materials_";
 		const office = "/images/gallery/ios-office_";
-		for (let index = 0; index < 59; index++) {
+		for (let index = 0; index < 39; index++) {
 			setImageArray((prev) => [material + index + ".jpg", ...prev]);
 		}
 		for (let index = 0; index < 4; index++) {
