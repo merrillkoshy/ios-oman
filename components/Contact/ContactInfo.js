@@ -13,9 +13,7 @@ const ContactInfo = () => {
 							</div>
 							<h3>Mail Here</h3>
 							<p>
-								<a href="mailto:info@unitedpipinggroup.com">
-									info@unitedpipinggroup.com
-								</a>
+								<a href="mailto:info@iosgroupoman.com">info@iosgroupoman.com</a>
 							</p>
 						</div>
 					</div>
@@ -27,8 +25,8 @@ const ContactInfo = () => {
 							</div>
 							<h3>Head Quarters</h3>
 							<p>
-								Unit No. 2501 & 2502, Jumeirah Business Center-4, Plot No.N2,
-								Jumeirah Lake Towers, PO Box: 634302, Dubai, UAE
+								International Oilfield Supplies LLC P.O Box 2212, P.C:112 Royal
+								Tower (4th Floor) - Ruwi-Muscat
 							</p>
 						</div>
 					</div>
@@ -41,11 +39,7 @@ const ContactInfo = () => {
 							<h3>Call Here</h3>
 							<p>
 								<Icon.Phone className="my-1 mx-3" />
-								<a href="tel:+97144328542">+971 4 432 8542</a>
-							</p>
-							<p>
-								<Icon.Printer className="my-1 mx-3" />
-								<a>+971 4 432 8439</a>
+								<a href="tel:+96824811166">+968 2481 1166</a>
 							</p>
 						</div>
 					</div>

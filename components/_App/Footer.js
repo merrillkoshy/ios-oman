@@ -19,11 +19,12 @@ const Footer = () => {
 								</Link>
 							</div>
 							<p>
-								United Piping Solutions (UPS) is the exclusive representative of
-								World Class international producers of Industrial Piping
-								materials. Our goal is to promote, supply and distribute their
-								piping products and services to Energy, Chemical, Petrochemical,
-								Shipbuilding and Mechanical industries globally.
+								International Oilfield Supplies (IOS) is the exclusive
+								representative of World Class international producers of
+								Industrial Piping materials. Our goal is to promote, supply and
+								distribute their piping products and services to Energy,
+								Chemical, Petrochemical, Shipbuilding and Mechanical industries
+								globally.
 							</p>
 						</div>
 					</div>
@@ -38,8 +39,8 @@ const Footer = () => {
 									</Link>
 								</li>
 								<li>
-									<Link href="/ups-advantage">
-										<a>UPS Advantage</a>
+									<Link href="/ios-advantage">
+										<a>IOS Advantage</a>
 									</Link>
 								</li>
 								<li>
@@ -47,11 +48,11 @@ const Footer = () => {
 										<a>Solutions</a>
 									</Link>
 								</li>
-								<li>
+								{/* <li>
 									<Link href="/fabrication">
 										<a>Fabrication</a>
 									</Link>
-								</li>
+								</li> */}
 								<li>
 									<Link href="/products">
 										<a>Products</a>
@@ -107,38 +108,24 @@ const Footer = () => {
 							<ul className="footer-contact-info">
 								<li>
 									<Icon.MapPin />
-									<a href="https://goo.gl/maps/hMwnCUiEGACDSSYR9">
-										Unit No. 2501 & 2502, Jumeirah Business Center-4, Plot
-										No.N2, Jumeirah Lake Towers
+									<a href="https://goo.gl/maps/b9CLwspR9MYgqjUj6">
+										International Oilfield Supplies LLC P.O Box 2212, P.C:112
+										Royal Tower (4th Floor) - Ruwi-Muscat Telephone: +968 2481
+										1166
 									</a>
 								</li>
 
 								<li>
 									<Icon.Mail />
 									Email:{" "}
-									<a href="mailto:info@unitedpipinggroup.com">
-										info@unitedpipinggroup.com
+									<a href="mailto:info@iosgroupoman.com">
+										info@iosgroupoman.com
 									</a>
 								</li>
 								<li>
 									<Icon.PhoneCall />
-									Phone: <a href="tel:+97144328542">+971 4 432 8542</a>
+									Phone: <a href="tel:+96824811166">+968 2481 1166</a>
 								</li>
-							</ul>
-							<ul className="social-links">
-								<div className="d-flex align-items-center justify-content-start justify-content-lg-evenly justify-content-xl-evenly">
-									<Link href="https://www.linkedin.com/company/ios-oman">
-										<a className="linkedin" target="_blank">
-											<Icon.Linkedin />
-										</a>
-									</Link>
-									<a
-										className="mx-2 mx-lg-0 mx-xl-0"
-										href="https://www.linkedin.com/company/ios-oman"
-									>
-										United Piping Solutions
-									</a>
-								</div>
 							</ul>
 						</div>
 					</div>
@@ -146,8 +133,8 @@ const Footer = () => {
 				<div className="col-lg-12 col-md-12">
 					<div className="copyright-area">
 						<p>
-							Copyright &copy; {currentYear} United Piping Solutions. All rights
-							reserved.
+							Copyright &copy; {currentYear} International Oilfield Supplies.
+							All rights reserved.
 						</p>
 					</div>
 				</div>

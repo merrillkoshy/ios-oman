@@ -119,7 +119,7 @@ const Services = () => {
                             </a>
                         </div>
                     </div>
-                    <div className="col-lg-4 col-md-6">
+                    {/* <div className="col-lg-4 col-md-6">
                         <div className="single-repair-services bg6">
                             <div className="icon">
                                 <i className="flaticon-factory"></i>
@@ -136,7 +136,7 @@ const Services = () => {
                                 <Icon.ArrowRight />
                             </a>
                         </div>
-                    </div>
+                    </div> */}
                     <Link href="/services">
                         <a className="expanded-page-link">All Services <Icon.ArrowRight /></a>
                     </Link>

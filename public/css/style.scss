@@ -103,8 +103,8 @@ Default CSS
 @import "responsive";
 
 $font-family: "Poppins", sans-serif;
-$primary: #ec4135;
-$secondary: #1c3f94;
+$primary: #eb4335;
+$secondary: #224491;
 $white-color: #ffffff;
 $black-color: #132c69;
 $navlink-color: #4a6f8a;
@@ -5845,15 +5845,10 @@ Page Title CSS
 .page-title-area {
 	position: relative;
 	z-index: 1;
-	// background: transparent url(/images/banner-bg1.jpg) right top no-repeat;
-	background: $gradient-color;
-	padding: {
-		top: 190px;
-		bottom: 100px;
-	}
+	background: $secondary;
+	padding-top: 130px;
+	padding-bottom: 100px;
 	text-align: center;
-	border-bottom-right-radius: 20px;
-	border-bottom-left-radius: 20px;
 	h2 {
 		font: {
 			size: 28px;
@@ -8846,14 +8841,6 @@ ML Services CSS
 	padding-bottom: 50px;
 	position: relative;
 	z-index: 1;
-	background: linear-gradient(
-		to left bottom,
-		#fffcff,
-		#fbfaff,
-		#ffefef,
-		#ffe0e0,
-		#fed5d5
-	);
 }
 .single-ml-services-box {
 	position: relative;

@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Masonry from "react-masonry-component";
 import InfiniteScroll from "react-infinite-scroll-component";
-import { Modal, Button } from "react-bootstrap";
 import PageBanner from "@/components/Common/PageBanner";
 import Lightbox from "react-image-lightbox";
 
@@ -64,12 +63,12 @@ const Gallery = () => {
 	};
 
 	const childElements = () => {
-		const material = "/images/gallery/ups-materials_";
-		const office = "/images/gallery/ups-office_";
-		for (let index = 0; index < 102; index++) {
+		const material = "/images/gallery/ios-materials_";
+		const office = "/images/gallery/ios-office_";
+		for (let index = 0; index < 59; index++) {
 			setImageArray((prev) => [material + index + ".jpg", ...prev]);
 		}
-		for (let index = 0; index < 8; index++) {
+		for (let index = 0; index < 4; index++) {
 			setImageArray((prev) => [office + index + ".jpg", ...prev]);
 		}
 
@@ -92,7 +91,7 @@ const Gallery = () => {
 				loader={<h4>Loading...</h4>}
 				endMessage={
 					<p style={{ textAlign: "center" }}>
-						<b>United Piping Solutions</b>
+						<b>International Oilfield Supplies</b>
 					</p>
 				}
 				refreshFunction={refresh}
@@ -110,7 +109,7 @@ const Gallery = () => {
 						<div className="section-title">
 							<h2>On Camera</h2>
 							<div className="bar"></div>
-							<p>Here are some great shots from UPS!</p>
+							<p>Here are some great shots from IOS!</p>
 						</div>
 
 						<Masonry

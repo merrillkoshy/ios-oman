@@ -79,36 +79,14 @@ const Navbar = () => {
 										<li className="nav-item">
 											<Link href="/about-us" activeClassName="active">
 												<a onClick={toggleNavbar} className="nav-link">
-													About UPS
+													About IOS
 												</a>
 											</Link>
 										</li>
 										<li className="nav-item">
-											<Link href="/ups-advantage">
+											<Link href="/ios-advantage">
 												<a onClick={toggleNavbar} className="nav-link">
-													UPS Advantage
-												</a>
-											</Link>
-										</li>
-										<li className="nav-item">
-											<Link href="/message-from-md" activeClassName="active">
-												<a onClick={toggleNavbar} className="nav-link">
-													Message from Managing Director
-												</a>
-											</Link>
-										</li>
-
-										<li className="nav-item">
-											<Link href="/message-from-ed" activeClassName="active">
-												<a onClick={toggleNavbar} className="nav-link">
-													Message from Executive Director
-												</a>
-											</Link>
-										</li>
-										<li className="nav-item">
-											<Link href="/quality">
-												<a onClick={toggleNavbar} className="nav-link">
-													Quality
+													IOS Advantage
 												</a>
 											</Link>
 										</li>
@@ -123,9 +101,9 @@ const Navbar = () => {
 									</Link>
 								</li>
 								<li className="nav-item">
-									<Link href="/fabrication">
+									<Link href="/quality">
 										<a onClick={toggleNavbar} className="nav-link">
-											Fabrication
+											Quality
 										</a>
 									</Link>
 								</li>
