@@ -13,7 +13,7 @@ const ContactInfo = () => {
 							</div>
 							<h3>Mail Here</h3>
 							<p>
-								<a href="mailto:info@iosgroupoman.com">info@iosgroupoman.com</a>
+								<a href="mailto:sales@iosoman.com">sales@iosoman.com</a>
 							</p>
 						</div>
 					</div>
