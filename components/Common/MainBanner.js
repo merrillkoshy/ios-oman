@@ -18,8 +18,7 @@ const MainBanner = () => {
 						// onChange={onChange} onClickItem={onClickItem} onClickThumb={onClickThumb}
 					>
 						<h1 className="animate__animated animate__slideInLeft">
-							Making transparent transactions thereby giving you the most
-							reasonable pricing
+							Assuring transparency thereby ensuring the most reasonable pricing
 						</h1>
 
 						<h1 className="animate__animated animate__slideInLeft">
@@ -27,11 +26,11 @@ const MainBanner = () => {
 						</h1>
 
 						<h1 className="animate__animated animate__slideInLeft">
-							Reducing your CAPEX with most competitive proposals
+							Most competitive proposals targeting minimal CAPEX
 						</h1>
 
 						<h1 className="animate__animated animate__slideInLeft">
-							Mitigating your Project Quality/ Scheduling risks
+							Assessing and Eliminating Risks
 						</h1>
 					</Carousel>
 				</div>

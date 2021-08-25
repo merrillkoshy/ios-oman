@@ -90,7 +90,7 @@ const ServiceDetails = () => {
 
 						<div className="col-lg-6 services-details-image">
 							<img
-								src="/images/service-3.jpg"
+								src="/images/gallery/ios-office_1.jpg"
 								width="100%"
 								className="animate__animated animate__fadeInUp"
 								alt="Consultancy and Customer Dedicated services - International Oilfield Supplies"

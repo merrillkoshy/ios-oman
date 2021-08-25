@@ -18,7 +18,6 @@ const UpsAdvantage = () => {
 			<div className="features-details-area ptb-80">
 				<div className="container">
 					<div className="row align-items-center justify-content-center">
-						<h3>At Vantage</h3>
 						<p>
 							It is common that inappropriate market mediation (from Sales and
 							distribution intermediaries) in Piping Industry, instead of adding
@@ -33,12 +32,6 @@ const UpsAdvantage = () => {
 							Such requirements are not feasible for the manufacturers to comply
 							most of the times.{" "}
 						</p>
-						<div className="separate"></div>
-						<img
-							src="/images/the-ios-advantage.jpg"
-							className="animate__animated animate__fadeInUp ios15"
-							alt="The IOS Advantage"
-						/>
 
 						<div className="separate"></div>
 
