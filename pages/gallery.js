@@ -68,7 +68,7 @@ const Gallery = () => {
 		for (let index = 0; index < 39; index++) {
 			setImageArray((prev) => [material + index + ".jpg", ...prev]);
 		}
-		for (let index = 0; index < 4; index++) {
+		for (let index = 0; index < 3; index++) {
 			setImageArray((prev) => [office + index + ".jpg", ...prev]);
 		}
 
