@@ -101,7 +101,7 @@ const ServicesModal = ({ show, handleClose, modalHeader }) => {
 									<div className="col m-2">
 										<img
 											width="100%"
-											src="/images/service-3.jpg"
+											src="/images/gallery/ios-office_1.jpg"
 											alt="Consultancy & Customer Dedicated - International Oilfield Supplies"
 										/>
 									</div>
